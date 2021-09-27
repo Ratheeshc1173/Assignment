@@ -113,7 +113,7 @@ To open the AutomationTestReport.html file, locate it in the same test-output fo
 
 Steps followed to implement Automation Suite
 
-The Automation suite for Constant Care web application is implemented using Selenium WebDriver with TestNG framework Maven build automation tool.
+The Automation suite for this web application is implemented using Selenium WebDriver with TestNG framework Maven build automation tool.
 
 Here in this context the jdk-1.8 is installed, IDE eclipse-jee-2020-06-R-win32-x86_64 and Selenium WebDriver 3.12.0 are configured.
 
