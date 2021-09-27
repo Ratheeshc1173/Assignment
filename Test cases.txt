@@ -1,0 +1,18 @@
+Test Cases:
+
+1. Verify whether the username field, password field and the login button are properly aligned.
+2. Verify whether the Username and Password fields are enabled.
+3. Verify whether the user can enter the username and password.
+4. Verify whether the login button is visible.
+5. Verify whether the login button is clickable.
+6. Verify whether the user is able to log in to the application when the login button is clicked after entering the username and password.
+7. Verify whether the user is gattig navigated to the Inventory page after logging in.
+8. Verify whether the error validation message is displayed when login button is clicked without entering the username and password.
+9. Verify whether the error validation message is displayed when login button is clicked after entering the wrong username or password. 
+10. Verify whether the user is able to close the error message and enter the login credentials again.
+11. Verify whether the placeholders are displayed in the username and password fields.
+12. Verify whether the placeholders are disappearing on entering the first character in the login fields.
+13. Verify whether the entered username is readable.
+14. Verify whether the entered password is encrypted.
+15. Verify whether the user is able to logout.
+16. Verify whether the user is returned to the login page when the logout button is clicked.
