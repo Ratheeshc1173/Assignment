@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Test Automation Test Suite]">
+  <test thread-count="5" name="Functional Testing(failed)">
+    <parameter name="platformVersion" value=""/>
+    <parameter name="browserVersion" value=""/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="nodeIP" value=""/>
+    <parameter name="platformName" value=""/>
+    <parameter name="udid" value=""/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="nodePort" value=""/>
+    <classes>
+      <class name="com.qa.app.testLoginFeature">
+        <methods>
+          <include name="validatePlaceholders"/>
+          <include name="SetUp"/>
+          <include name="tearAfter"/>
+        </methods>
+      </class> <!-- com.qa.app.testLoginFeature -->
+    </classes>
+  </test> <!-- Functional Testing(failed) -->
+</suite> <!-- Failed suite [Test Automation Test Suite] -->
